@@ -1,5 +1,5 @@
 # Fundamentos de Programação: Além dos Conceitos Básicos
-Este é o repositório do curso de LinkedIn Learning `título do curso`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
+Este é o repositório do curso de LinkedIn Learning `Fundamentos de Programação: Além dos Conceitos Básicos`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
 
 ![Título completo do curso][lil-thumbnail-url] 
 
