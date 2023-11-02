@@ -8,15 +8,15 @@ Confira o arquivo Readme na ramificação principal para obter instruções e in
 Continue sua jornada na programação se aprofundando nos conceitos básicos, nas práticas e na terminologia. Neste curso da série Fundamentos de Programação, a instrutora Natalia Corea vai além do básico, usando o Python para abordar diversas habilidades e conceitos intermediários e avançados que você pode incluir em seu repertório de programação. Natalia aborda a criação e o trabalho com coleções e loops, a combinação e a manipulação de strings e o uso de códigos externos – conceitos fundamentais, independentemente da linguagem de programação com que você trabalhe. Além de analisar vários processos essenciais, como a escolha de um estilo de código e depuração, Natalia ainda detalha alguns conceitos mais avançados, como gerenciamento de memória e multithreading. 
 
 ## Instruções 
-Este repositorio no tiene ramas por lo que al descargar el repositorio completo obtendrás los archivos en su versión final.
+Este repositório não tem ramificações, portanto, ao baixar o repositório completo, você obterá a versão final dos arquivos. 
 
-Cada carpeta en el directorio raíz corresponde a una unidad del curso y cada una tiene un nombre con un formato de Unidad_#unidad. Cada carpeta contiene los ejemplos de cada lección. Las carpetas de las lecciones tienen un nombre con un formato de #leccion_nombreLeccion. Por ejemplo, los archivos de la lección 3 de la unidad 2 se encuentran en el directorio: Unidad_02/3_prototipo. 
+Cada pasta do diretório raiz corresponde a um capítulo do curso. A convenção de nomenclatura é Capítulo_#capítulo. Por sua vez, essas pastas contêm os exemplos de cada vídeo. As pastas dos vídeos são nomeadas com o formato #vídeo_nomevídeo. Por exemplo: os arquivos do terceiro vídeo do segundo capítulo estão localizados no diretório: Capítulo_02/3_prototipo. 
 
 ## Instalação
 1. Para usar esses arquivos de exercícios, você precisa baixar o seguinte programa: 
-	- Un editor de código ([VS Code](https://code.visualstudio.com/) es recomendado)
+	- Um editor de código [recomendamos o VS Code (https://code.visualstudio.com/) ]
 	
-2. Clone este repositório em seu computador local (macOS) ou CMD (Windows), ou use uma ferramenta de interface gráfica do usuário (GUI), como o SourceTree, para fazer isso. 
+2. Clone este repositório em seu computador local (macOS) ou CMD (Windows), ou use uma ferramenta de interface gráfica do usuário (GUI), como o SourceTree, para fazer isso.
 
 ### Instrutor(a)
 
